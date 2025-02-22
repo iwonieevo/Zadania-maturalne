@@ -1,0 +1,101 @@
+6.1
+109
+
+6.2
+Wiralow:41
+Kukurykow:39
+Szymbark:32
+Preziowo:30
+Bialowo:21
+Gorkowo:18
+Kielkowo:17
+Koszalkowo:15
+Radelko:15
+Sadelko:15
+Licowo:15
+Barylkowo:14
+Orecin:14
+Rezkow:13
+Warkowo:13
+Lewkowo:12
+
+6.3
+Katarzyna Olszewska:25
+Franciszek Dudek:27
+Natalia Jankowska:36
+Barbara Kaczmarek:21
+Monika Kowalczyk:26
+Szymon Rutkowski:21
+Kamila Majewska:21
+
+6.4
+Agnieszka Wieczorek
+Franciszek Dudek
+Zofia Grabowska
+Barbara Kaczmarek
+Jan Malinowski
+Anna Nowak
+Kamila Majewska
+Piotr Lewandowski
+
+6.5
+Nazwa klubu: Zenit
+Miasto: Licowo 
+Wygrane mecze: 8
+Przegrane mecze: 7
+
+Nazwa klubu: Olimpia
+Miasto: Orecin
+Wygrane mecze: 9
+Przegrane mecze: 5
+
+Nazwa klubu: Stolar
+Miasto: Wiralow
+Wygrane mecze: 11
+Przegrane mecze: 9
+
+Nazwa klubu: Zjednoczeni
+Miasto: Kukurykow
+Wygrane mecze: 10
+Przegrane mecze: 8
+
+Nazwa klubu: Spirca
+Miasto: Lewkowo
+Wygrane mecze: 6
+Przegrane mecze: 6
+
+Nazwa klubu: Bradownia
+Miasto: Preziowo
+Wygrane mecze: 9
+Przegrane mecze: 9
+
+Nazwa klubu: Libero
+Miasto: Warkowo
+Wygrane mecze: 8
+Przegrane mecze: 5
+
+Nazwa klubu: Waleczni
+Miasto: Preziowo
+Wygrane mecze: 7
+Przegrane mecze: 5
+
+Nazwa klubu: Victoria
+Miasto: Radelko
+Wygrane mecze: 10
+Przegrane mecze: 5
+
+Nazwa klubu: Huraganer
+Miasto: Szymbark
+Wygrane mecze: 8
+Przegrane mecze: 8
+
+Nazwa klubu: Sfinks
+Miasto: Szymbark
+Wygrane mecze: 9
+Przegrane mecze: 7
+
+Nazwa klubu: Astecja
+Miasto: Rezkow
+Wygrane mecze: 10
+Przegrane mecze: 3
+

@@ -1,0 +1,11 @@
+4.1
+Liczb z pierwsza cyfra rowna ostatniej: 18
+Pierwsza taka liczba: 93639
+
+4.2
+Najwiecej czynnikow: 10 dla 99792
+Najwiecej roznych: 6 dla 62790
+
+4.3
+a)27
+b)2
